@@ -2,7 +2,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunph&show_icons=true&theme=tokyonight)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=Hyun_ph)](https://solved.ac/hyun_ph/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=Hun_ph)](https://solved.ac/hun_ph/)
 
 <!--
 **HyunPH/HyunPH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
