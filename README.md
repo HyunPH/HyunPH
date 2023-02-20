@@ -1,6 +1,6 @@
 # ✨ LEE TAE HYUN 😄
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunph&show_icons=true&theme=highcontrast)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunph&show_icons=true&theme=tokyonight)
 
 <!--
 **HyunPH/HyunPH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
